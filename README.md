@@ -43,7 +43,7 @@ before trying to adopt one of these wholesale.
 * [The Ideas That Shaped Go](https://medium.com/@dgryski/the-ideas-that-shaped-go-21850a74295f)
 * [Software Engineering at Google](https://arxiv.org/abs/1702.01715)
 
-### Corporate/Project-specific Style Guildes
+### Corporate/Project-specific Style Guides
 
 * [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide)
 * [CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md)
