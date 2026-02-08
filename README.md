@@ -80,7 +80,7 @@ practices, but otherwise mostly undocumented):
 //    * SECURITY and SECBUG are used for security related notes and issues
 ```
 
-If you have a bug tracker, TODO(bug#) is probalby more useful as they're likely
+If you have a bug tracker, TODO(bug#) is probably more useful as they're likely
 to stay static while maintainers move over time.  Similarly, including dates or
 release versions in the comment can ensure TODOs are revisisted at appropriate
 times.
